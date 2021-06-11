@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  DeezerMusic
+
+  Created by Zvonimir Medak on 01.06.2021..
+  Copyright © 2021 Zvonimir Medak. All rights reserved.
+*/
+"add_new_playlist" = "addNewPlaylist";
+"liked_songs" = "likedSongs";
+"liked" = "Liked";
+"playlists" = "Playlists";
+"new_playlist_caps" = "NEW PLAYLIST";
+"create" = "Create";
+"cancel" = "Cancel";
+"new_playlist" = "New playlist";
+"new_playlist_name" = "Set new playlist name";
+"name" = "Name";
+"duplicate_song" = "Dublicate song";
+"song_already_contained" = "Song already contained in the playlist";
+"songs" = "Songs";
+"you_are_listening" = "You are listening to \n";
+"enter_username_password" = "Enter Username/Password";
+"log_in_to_account" = "Logi in to your account";
+"auth_failed" = "Failed to authenticate";
+"can_not_evaluate" = "Can't evaluate policy";
+"welcome" = "Welcome";
+"login" = "LOGIN";
+"error" = "Error";
